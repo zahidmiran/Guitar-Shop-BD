@@ -1,6 +1,6 @@
-const searchBtn = document.getElementById('searchBtn');
+const searchBtn = document.getElementById('search-btn');
 const containerData = document.getElementById('phone');
-const warning = document.getElementById('warning');
+const warning = document.getElementById('warning-text');
 warning.style.display = 'none';
 
 // spinner
